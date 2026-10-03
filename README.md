@@ -34,4 +34,4 @@
 > 
   > Renders done through the use of Mine-Imator, Blockbench & Blender 4.4 - 5.2, assets done through Photoshop & Aseprite
 > 
-  > No license as this is a free non-commercial fan mod, no copy of melee is provided; GET YOUR OWN!!!
+  > No license as this is a free non-commercial fan mod but please mention/@ me if you end up playing with it!
