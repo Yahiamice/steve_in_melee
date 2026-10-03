@@ -26,7 +26,7 @@
 
 ### CREDITS AND DISCLAIMERS:
 
-  > Port by Yahiamice, AI Assisted through Claude Opus 5.5 (sorry, its vibecoded)
+  > Port by Yahiamice, AI Assisted through Claude Opus 5.5 (sorry, its partly vibecoded)
 > 
   > Steve's model, animations and move data come from Super Smash Bros. Ultimate (Nintendo / Bandai Namco / Sora)
 > 
