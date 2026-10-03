@@ -9,8 +9,9 @@
 
     - Your own **Smash Bros Melee NTSC v1.02 ISO (GALE01)**, checksum 0e63d4223b01d9aba596259dc155a174
     - A patcher that can apply .xdelta patches:
-      - Windows:      Delta Patcher  https://github.com/marco-calautti/DeltaPatcher/releases
-      - Mac / Linux:  xdelta3 https://kotcrab.github.io/xdelta-wasm/
+      - Xdelta online patcher by kotcrab https://kotcrab.github.io/xdelta-wasm/
+      - Delta Patcher software  https://github.com/marco-calautti/DeltaPatcher/releases
+
   
 2) How to patch & play
    - Download the latest release of the patch file *Melee_Steve_v1.20.xdelta* in the releases to the right
