@@ -27,7 +27,7 @@
 
 ### CREDITS AND DISCLAIMERS:
 
-  > Port by Yahiamice, AI Assisted through Claude Opus 5.5 (sorry, its partly vibecoded)
+  > Port by Yahiamice, moves, hitboxes & animations were machine-translated from Ultimate formats to m-ex through Opus 5.5, every other asset was made by hand
 > 
   > Steve's model, animations and move data come from Super Smash Bros. Ultimate (Nintendo / Bandai Namco / Sora)
 > 
